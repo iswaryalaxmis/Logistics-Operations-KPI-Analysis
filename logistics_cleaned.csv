@@ -1,0 +1,101 @@
+order_id,order_date,region,warehouse_id,carrier,product_category,quantity,order_value_eur,freight_cost_eur,estimated_delivery_date,actual_delivery_date,delivery_status,customer_rating,delivery_days,delay_days,delivery_performance
+ORD-0001,2026-01-27,Central,WH-01,UPS,Furniture,1,1464.04,65.65,2026-02-02,2026-02-03,Delivered,4.0,7.0,1.0,Late
+ORD-0002,2026-08-24,East,WH-02,DHL,Home & Kitchen,8,1238.57,39.92,2026-08-31,2026-09-01,Delivered,4.0,8.0,1.0,Late
+ORD-0003,2026-05-16,North,WH-04,FedEx,Furniture,7,1143.18,32.72,2026-05-19,2026-05-23,Delivered,1.0,7.0,4.0,Late
+ORD-0004,2026-10-19,West,WH-01,DPD,Clothing,5,252.58,59.33,2026-10-25,,Delayed,,,,Not Delivered
+ORD-0005,2026-01-14,East,WH-02,FedEx,Furniture,1,304.47,14.52,2026-01-18,2026-01-22,Delivered,3.0,8.0,4.0,Late
+ORD-0006,2026-07-25,West,WH-04,DPD,Electronics,9,1057.89,29.3,2026-07-29,2026-07-30,Delivered,4.0,5.0,1.0,Late
+ORD-0007,2026-09-07,Central,WH-02,DHL,Food,7,319.86,4.6,2026-09-14,,In Transit,,,,Not Delivered
+ORD-0008,2026-02-11,East,WH-03,DPD,Food,6,863.89,15.32,2026-02-17,,In Transit,,,,Not Delivered
+ORD-0009,2026-05-18,West,WH-02,FedEx,Clothing,1,961.21,48.84,2026-05-22,2026-05-24,Delivered,4.0,6.0,2.0,Late
+ORD-0010,2026-01-28,North,WH-02,DPD,Home & Kitchen,3,627.58,73.13,2026-02-02,2026-02-04,Delivered,1.0,7.0,2.0,Late
+ORD-0011,2026-03-12,Central,WH-02,DPD,Food,2,1181.25,57.81,2026-03-19,2026-03-18,Delivered,3.0,6.0,-1.0,On Time
+ORD-0012,2026-05-03,North,WH-02,DHL,Electronics,1,1090.48,41.41,2026-05-07,,In Transit,,,,Not Delivered
+ORD-0013,2026-08-04,North,WH-02,UPS,Clothing,5,587.01,28.42,2026-08-06,2026-08-10,Delivered,4.0,6.0,4.0,Late
+ORD-0014,2026-07-09,South,WH-01,DPD,Home & Kitchen,4,1057.07,25.54,2026-07-16,2026-07-14,Delivered,5.0,5.0,-2.0,On Time
+ORD-0015,2026-08-18,West,WH-04,DPD,Food,3,167.18,77.11,2026-08-25,,In Transit,,,,Not Delivered
+ORD-0016,2026-02-08,South,WH-04,UPS,Clothing,2,1288.51,65.44,2026-02-12,2026-02-15,Delivered,3.0,7.0,3.0,Late
+ORD-0017,2026-08-04,North,WH-03,DHL,Food,7,638.32,7.37,2026-08-07,2026-08-09,Delivered,1.0,5.0,2.0,Late
+ORD-0018,2026-02-23,North,WH-03,DHL,Electronics,6,276.62,78.93,2026-02-27,2026-03-01,Delivered,5.0,6.0,2.0,Late
+ORD-0019,2026-06-24,South,WH-01,DHL,Home & Kitchen,5,1179.53,10.7,2026-06-29,2026-07-01,Delivered,3.0,7.0,2.0,Late
+ORD-0020,2026-03-24,Central,WH-01,UPS,Clothing,5,418.79,30.86,2026-03-28,2026-03-29,Delivered,3.0,5.0,1.0,Late
+ORD-0021,2026-06-06,South,WH-04,DHL,Home & Kitchen,6,842.2,12.79,2026-06-09,2026-06-07,Delivered,1.0,1.0,-2.0,On Time
+ORD-0022,2026-07-19,West,WH-03,UPS,Home & Kitchen,8,183.92,78.2,2026-07-25,2026-07-24,Delivered,5.0,5.0,-1.0,On Time
+ORD-0023,2026-03-11,East,WH-02,DPD,Home & Kitchen,5,492.78,81.18,2026-03-13,2026-03-14,Delivered,5.0,3.0,1.0,Late
+ORD-0024,2026-07-10,South,WH-04,FedEx,Electronics,2,91.24,39.24,2026-07-13,2026-07-17,Delivered,5.0,7.0,4.0,Late
+ORD-0025,2026-10-25,Central,WH-04,DHL,Home & Kitchen,2,491.0,66.53,2026-10-27,,Delayed,,,,Not Delivered
+ORD-0026,2026-06-05,Central,WH-01,UPS,Food,4,1406.8,23.52,2026-06-09,2026-06-09,Delivered,2.0,4.0,0.0,On Time
+ORD-0027,2026-01-10,North,WH-03,DHL,Furniture,6,1314.98,19.91,2026-01-12,,In Transit,,,,Not Delivered
+ORD-0028,2026-03-26,Central,WH-02,UPS,Clothing,2,45.56,22.6,2026-03-29,,In Transit,,,,Not Delivered
+ORD-0029,2026-03-25,North,WH-02,UPS,Home & Kitchen,7,882.15,20.18,2026-03-27,2026-03-31,Delivered,5.0,6.0,4.0,Late
+ORD-0030,2026-08-30,Central,WH-01,DPD,Electronics,6,611.43,28.38,2026-09-01,2026-09-04,Delivered,5.0,5.0,3.0,Late
+ORD-0031,2026-02-09,Central,WH-03,DPD,Home & Kitchen,10,61.67,48.97,2026-02-13,2026-02-13,Delivered,1.0,4.0,0.0,On Time
+ORD-0032,2026-07-10,West,WH-02,DHL,Home & Kitchen,2,1401.21,69.15,2026-07-16,2026-07-14,Delivered,3.0,4.0,-2.0,On Time
+ORD-0033,2026-05-10,North,WH-03,DHL,Furniture,9,1200.31,22.84,2026-05-14,,In Transit,,,,Not Delivered
+ORD-0034,2026-04-11,Central,WH-04,UPS,Furniture,5,576.92,38.5,2026-04-16,2026-04-20,Delivered,1.0,9.0,4.0,Late
+ORD-0035,2026-07-15,East,WH-01,DPD,Furniture,10,1229.44,12.53,2026-07-18,,In Transit,,,,Not Delivered
+ORD-0036,2026-08-12,South,WH-01,DHL,Home & Kitchen,4,237.21,78.6,2026-08-16,2026-08-18,Delivered,2.0,6.0,2.0,Late
+ORD-0037,2026-06-29,North,WH-02,DHL,Clothing,1,106.71,18.15,2026-07-01,2026-07-03,Delivered,5.0,4.0,2.0,Late
+ORD-0038,2026-01-17,Central,WH-02,FedEx,Furniture,10,1315.63,72.94,2026-01-22,2026-01-24,Delivered,3.0,7.0,2.0,Late
+ORD-0039,2026-06-10,South,WH-01,DHL,Food,6,638.99,7.99,2026-06-12,2026-06-16,Delivered,1.0,6.0,4.0,Late
+ORD-0040,2026-04-23,North,WH-04,DHL,Electronics,5,171.19,72.33,2026-04-30,2026-04-28,Delivered,5.0,5.0,-2.0,On Time
+ORD-0041,2026-08-29,Central,WH-03,FedEx,Food,7,1174.02,14.9,2026-09-05,,Cancelled,,,,Not Delivered
+ORD-0042,2026-09-05,Central,WH-04,DPD,Food,4,968.36,25.58,2026-09-10,2026-09-14,Delivered,1.0,9.0,4.0,Late
+ORD-0043,2026-02-11,West,WH-01,DPD,Furniture,6,508.06,34.74,2026-02-13,2026-02-13,Delivered,2.0,2.0,0.0,On Time
+ORD-0044,2026-02-24,Central,WH-03,FedEx,Home & Kitchen,5,509.33,47.37,2026-03-02,2026-03-05,Delivered,5.0,9.0,3.0,Late
+ORD-0045,2026-09-12,East,WH-03,FedEx,Food,1,1108.97,20.39,2026-09-15,2026-09-18,Delivered,2.0,6.0,3.0,Late
+ORD-0046,2026-06-29,North,WH-04,UPS,Food,1,1095.43,10.84,2026-07-05,,In Transit,,,,Not Delivered
+ORD-0047,2026-06-06,Central,WH-01,FedEx,Clothing,6,1179.37,68.4,2026-06-13,2026-06-17,Delivered,5.0,11.0,4.0,Late
+ORD-0048,2026-10-11,North,WH-01,UPS,Food,2,858.3,50.37,2026-10-17,2026-10-19,Delivered,1.0,8.0,2.0,Late
+ORD-0049,2026-05-23,West,WH-04,FedEx,Clothing,5,909.4,79.43,2026-05-27,2026-05-30,Delivered,5.0,7.0,3.0,Late
+ORD-0050,2026-02-05,East,WH-03,UPS,Clothing,10,1015.07,31.02,2026-02-11,2026-02-09,Delivered,4.0,4.0,-2.0,On Time
+ORD-0051,2026-08-10,South,WH-04,DPD,Clothing,4,257.48,15.97,2026-08-17,,In Transit,,,,Not Delivered
+ORD-0052,2026-01-26,South,WH-01,UPS,Electronics,6,1405.81,67.2,2026-02-02,2026-02-05,Delivered,4.0,10.0,3.0,Late
+ORD-0053,2026-05-24,North,WH-03,FedEx,Home & Kitchen,5,1279.54,55.6,2026-05-29,2026-06-02,Delivered,1.0,9.0,4.0,Late
+ORD-0054,2026-02-06,West,WH-03,DHL,Electronics,5,1242.46,27.92,2026-02-08,2026-02-07,Delivered,5.0,1.0,-1.0,On Time
+ORD-0055,2026-05-18,East,WH-04,UPS,Food,6,1495.63,75.22,2026-05-20,2026-05-20,Delivered,1.0,2.0,0.0,On Time
+ORD-0056,2026-07-25,North,WH-03,FedEx,Electronics,7,983.93,11.33,2026-07-28,,In Transit,,,,Not Delivered
+ORD-0057,2026-07-24,South,WH-02,DHL,Home & Kitchen,8,317.35,77.76,2026-07-31,2026-07-30,Delivered,2.0,6.0,-1.0,On Time
+ORD-0058,2026-07-16,North,WH-01,FedEx,Food,10,376.87,72.8,2026-07-18,2026-07-17,Delivered,5.0,1.0,-1.0,On Time
+ORD-0059,2026-03-15,Central,WH-01,FedEx,Home & Kitchen,7,1261.02,7.25,2026-03-17,,In Transit,,,,Not Delivered
+ORD-0060,2026-05-17,East,WH-03,UPS,Clothing,7,1280.42,16.57,2026-05-20,2026-05-22,Delivered,5.0,5.0,2.0,Late
+ORD-0061,2026-08-09,North,WH-03,UPS,Home & Kitchen,8,105.39,53.92,2026-08-11,2026-08-10,Delivered,4.0,1.0,-1.0,On Time
+ORD-0062,2026-01-02,West,WH-02,DHL,Furniture,1,295.71,83.38,2026-01-04,,Delayed,,,,Not Delivered
+ORD-0063,2026-06-27,West,WH-04,UPS,Clothing,2,1420.39,28.41,2026-07-01,,In Transit,,,,Not Delivered
+ORD-0064,2026-05-06,West,WH-02,FedEx,Electronics,2,774.82,36.73,2026-05-11,2026-05-10,Delivered,5.0,4.0,-1.0,On Time
+ORD-0065,2026-05-23,Central,WH-02,DHL,Furniture,7,926.21,55.4,2026-05-30,2026-05-28,Delivered,3.0,5.0,-2.0,On Time
+ORD-0066,2026-10-19,South,WH-04,UPS,Food,4,78.19,37.89,2026-10-23,2026-10-26,Delivered,3.0,7.0,3.0,Late
+ORD-0067,2026-05-23,South,WH-03,UPS,Food,6,987.34,29.61,2026-05-25,2026-05-27,Delivered,4.0,4.0,2.0,Late
+ORD-0068,2026-03-15,East,WH-03,UPS,Clothing,4,781.29,63.67,2026-03-21,2026-03-20,Delivered,3.0,5.0,-1.0,On Time
+ORD-0069,2026-09-23,West,WH-03,DPD,Food,3,1260.14,44.03,2026-09-30,,Delayed,,,,Not Delivered
+ORD-0070,2026-04-05,Central,WH-04,FedEx,Electronics,1,517.84,18.01,2026-04-07,2026-04-06,Delivered,2.0,1.0,-1.0,On Time
+ORD-0071,2026-08-08,North,WH-02,FedEx,Food,9,574.09,16.44,2026-08-11,2026-08-15,Delivered,2.0,7.0,4.0,Late
+ORD-0072,2026-06-30,East,WH-04,DHL,Home & Kitchen,5,483.67,59.7,2026-07-05,2026-07-05,Delivered,4.0,5.0,0.0,On Time
+ORD-0073,2026-02-13,West,WH-02,DHL,Food,3,799.51,17.26,2026-02-19,2026-02-23,Delivered,4.0,10.0,4.0,Late
+ORD-0074,2026-02-19,Central,WH-03,DHL,Home & Kitchen,9,233.85,40.31,2026-02-26,,In Transit,,,,Not Delivered
+ORD-0075,2026-10-25,Central,WH-04,DHL,Clothing,5,247.24,18.66,2026-10-28,2026-10-26,Delivered,3.0,1.0,-2.0,On Time
+ORD-0076,2026-03-15,South,WH-01,DPD,Electronics,5,890.01,43.96,2026-03-22,2026-03-24,Delivered,1.0,9.0,2.0,Late
+ORD-0077,2026-01-26,Central,WH-03,UPS,Food,5,1150.28,8.71,2026-02-02,2026-02-05,Delivered,4.0,10.0,3.0,Late
+ORD-0078,2026-08-06,South,WH-04,FedEx,Furniture,5,1158.73,73.01,2026-08-10,2026-08-14,Delivered,2.0,8.0,4.0,Late
+ORD-0079,2026-06-01,North,WH-04,DPD,Furniture,6,808.83,12.5,2026-06-04,,Delayed,,,,Not Delivered
+ORD-0080,2026-05-30,West,WH-03,DPD,Electronics,1,307.61,6.01,2026-06-06,2026-06-10,Delivered,2.0,11.0,4.0,Late
+ORD-0081,2026-07-02,South,WH-01,UPS,Clothing,1,435.08,60.95,2026-07-09,2026-07-09,Delivered,3.0,7.0,0.0,On Time
+ORD-0082,2026-07-10,Central,WH-02,FedEx,Food,7,1088.03,82.02,2026-07-16,,Cancelled,,,,Not Delivered
+ORD-0083,2026-09-28,North,WH-01,UPS,Food,9,840.83,56.98,2026-10-02,,In Transit,,,,Not Delivered
+ORD-0084,2026-05-13,North,WH-02,FedEx,Food,10,536.08,14.03,2026-05-15,,Cancelled,,,,Not Delivered
+ORD-0085,2026-08-13,Central,WH-02,FedEx,Home & Kitchen,9,1467.43,37.34,2026-08-18,2026-08-21,Delivered,3.0,8.0,3.0,Late
+ORD-0086,2026-01-23,East,WH-03,FedEx,Furniture,10,1238.31,6.99,2026-01-29,2026-01-28,Delivered,1.0,5.0,-1.0,On Time
+ORD-0087,2026-04-22,Central,WH-03,FedEx,Food,7,1301.55,63.89,2026-04-26,2026-04-24,Delivered,4.0,2.0,-2.0,On Time
+ORD-0088,2026-04-29,South,WH-01,UPS,Furniture,9,31.64,45.68,2026-05-05,2026-05-09,Delivered,2.0,10.0,4.0,Late
+ORD-0089,2026-07-23,West,WH-04,UPS,Food,3,1282.85,32.19,2026-07-29,2026-07-29,Delivered,2.0,6.0,0.0,On Time
+ORD-0090,2026-08-22,East,WH-02,DPD,Electronics,3,1332.67,19.2,2026-08-29,2026-08-31,Delivered,4.0,9.0,2.0,Late
+ORD-0091,2026-01-26,East,WH-04,UPS,Home & Kitchen,7,626.71,15.08,2026-01-30,2026-02-02,Delivered,2.0,7.0,3.0,Late
+ORD-0092,2026-02-05,West,WH-03,UPS,Electronics,4,1375.07,44.25,2026-02-10,,Cancelled,,,,Not Delivered
+ORD-0093,2026-04-14,North,WH-02,DHL,Clothing,1,693.59,55.4,2026-04-16,2026-04-15,Delivered,5.0,1.0,-1.0,On Time
+ORD-0094,2026-04-13,Central,WH-04,UPS,Clothing,10,1348.07,23.04,2026-04-20,2026-04-24,Delivered,2.0,11.0,4.0,Late
+ORD-0095,2026-06-18,East,WH-04,UPS,Furniture,6,988.82,28.25,2026-06-21,,Delayed,,,,Not Delivered
+ORD-0096,2026-09-14,North,WH-02,FedEx,Electronics,3,853.2,68.15,2026-09-17,2026-09-16,Delivered,3.0,2.0,-1.0,On Time
+ORD-0097,2026-08-24,Central,WH-04,UPS,Food,3,1356.27,67.79,2026-08-31,2026-09-01,Delivered,5.0,8.0,1.0,Late
+ORD-0098,2026-05-22,North,WH-02,UPS,Furniture,10,781.28,39.07,2026-05-25,2026-05-25,Delivered,1.0,3.0,0.0,On Time
+ORD-0099,2026-01-11,South,WH-01,DHL,Furniture,6,696.3,45.8,2026-01-17,,Delayed,,,,Not Delivered
+ORD-0100,2026-01-20,Central,WH-01,UPS,Furniture,8,1054.83,20.77,2026-01-22,2026-01-21,Delivered,1.0,1.0,-1.0,On Time
